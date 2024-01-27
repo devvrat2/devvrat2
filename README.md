@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning predictive data analytics
 - 📫 How to reach me https://www.linkedin.com/in/devvrat/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Turning data into insights is my daily jam – I slice through numbers like a ninja, making spreadsheets surrender their secrets.
+- ⚡ Fun fact: Turning data into insights is my daily jam – I slice through numbers like a ninja :D, making spreadsheets surrender their secrets.
  PMP by day, data wizard by night, weaving dashboards that tell tales only the numbers can whisper in the language of analysis! 📊✨
 
 <!---
