@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devvrat
-- 👀 I’m interested in Data Analysis | Power BI | Python | MySQL | Advance Excel | Statistics | Regression | Tableau
-- 🌱 I’m currently learning predictive data analytics
+- 👀 I’m interested in Data Analysis | Project Analysis | Power BI | Python | MySQL | Advance Excel | Statistics | Regression | Tableau | PMO
+- 🌱 I’m currently learning new things such as predictive data analytics
 - 📫 How to reach me https://www.linkedin.com/in/devvrat/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Turning data into insights is my daily jam – I slice through numbers like a ninja :D, making spreadsheets surrender their secrets.
